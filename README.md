@@ -11,6 +11,6 @@ InstaFace (IF) is a cutting edge startup specializing in facial recognition. As 
 Your goal is to fork this repo, investigate the provided dataset, build a series of models, and upload a pickelized version of your best model for assessment. Specifically, your model will be assessed on a test set that has been withheld. You will be assessed on your [log loss](http://www.exegetic.biz/blog/2015/12/making-sense-logarithmic-loss/) score. At the end you will receive both your log loss score and a description stating how well you did (e.g. needs improvement, satistfactory, proficient).  
 
 # Disclaimer
-Python 3 is the wave of the future. All of your work must be completed in Python 3. If you code in Python 2 and submit your pickled model in Python 2, you're going to have a bad day.
+Python 3 is the wave of the future. All of your work must be completed in Python 3. If you code in Python 2 and submit your pickled model in Python 2, you're going to have a bad time.
 
 ![Python](http://4.bp.blogspot.com/-azz7FnuyEa0/Vj2fSbjKb1I/AAAAAAABKAs/cjuYIHasEWw/s1600/Ubuntu_16.04_Migration_Python3_Logo.jpg)
